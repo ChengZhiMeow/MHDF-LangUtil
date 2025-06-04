@@ -4,7 +4,7 @@ import org.bukkit.block.Biome;
 
 public final class BukkitBiomeManagerImpl implements BiomeManager {
     @Override
-    public String getKey(Biome biome) {
-        return "biome.minecraft." + biome.getKey().getKey();
+    public String getKey(Object biome) {
+        return "biome.minecraft." + ((Biome) biome).getKey().getKey();
     }
 }
