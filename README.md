@@ -13,19 +13,19 @@ _✨轻量 便携 快捷✨_
 </div>
 
 <p align="center">
-    <a href="https://github.com/MHDFCraft/MHDF-LangUtil/issues">
-        <img src="https://img.shields.io/github/issues/MHDFCraft/MHDF-LangUtil?style=flat-square" alt="issues">
+    <a href="https://github.com/ChengZhiMeow/MHDF-LangUtil/issues">
+        <img src="https://img.shields.io/github/issues/ChengZhiMeow/MHDF-LangUtil?style=flat-square" alt="issues">
     </a>
-    <a href="https://github.com/MHDFCraft/MHDF-LangUtil/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MHDFCraft/MHDF-LangUtil?style=flat-square" alt="license">
+    <a href="https://github.com/ChengZhiMeow/MHDF-LangUtil/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/ChengZhiMeow/MHDF-LangUtil?style=flat-square" alt="license">
     </a>
-    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=T047YB6lHNMMcMuVlK_hGBcT5HNESxMA&jump_from=webapi&authKey=0/IFGIO6xLjjHB2YKF7laLxkKWbtWbDhb1lt//m7GgbElJSWdRZ8RjbWzSsufkO6">
-        <img src="https://img.shields.io/badge/QQ群-129139830-brightgreen?style=flat-square" alt="qq-group">
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=yFohqtqdDeXfdPvSLY81_3dzkcjc_-Uf&jump_from=webapi&authKey=ZxYDhb/PqczeWIYXE9IUEeuSAtFyxjYUrTgwUJu74FvOcGcJgTvo/vXAUzkHBO2Q">
+        <img src="https://img.shields.io/badge/QQ群-941867965-brightgreen?style=flat-square" alt="qq-group">
     </a>
 </p>
 
 <div align="center">
-    <a href="https://github.com/MHDFCraft/MHDF-LangUtil/pulse">
+    <a href="https://github.com/ChengZhiMeow/MHDF-LangUtil/pulse">
         <img src="https://repobeats.axiom.co/api/embed/e58f3e1358766291db33ba451d3e90be99811f4f.svg" alt="pulse">
     </a>
 </div>
@@ -71,8 +71,8 @@ _✨轻量 便携 快捷✨_
 
 ## 贡献者
 
-<a href="https://github.com/MHDFCraft/MHDF-LangUtil/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=MHDFCraft/MHDF-LangUtil" alt="contributors"/>
+<a href="https://github.com/ChengZhiMeow/MHDF-LangUtil/graphs/contributors">
+  <img src="https://stg.contrib.rocks/image?repo=ChengZhiMeow/MHDF-LangUtil" alt="contributors"/>
 </a>
 
 ## 精神支柱
@@ -81,7 +81,7 @@ _✨轻量 便携 快捷✨_
 
 ## Star
 
-[![Stargazers over time](https://starchart.cc/MHDFCraft/MHDF-LangUtil.svg?variant=adaptive)](https://starchart.cc/MHDFCraft/MHDF-LangUtil)
+[![Stargazers over time](https://starchart.cc/ChengZhiMeow/MHDF-LangUtil.svg?variant=adaptive)](https://starchart.cc/ChengZhiMeow/MHDF-LangUtil)
 
 ## 友链
 
